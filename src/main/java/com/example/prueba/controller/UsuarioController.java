@@ -1,4 +1,6 @@
 package com.example.prueba.controller;
 
 public class UsuarioController {
+
+    private String Nombre = "juan";
 }
